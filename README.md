@@ -10,7 +10,7 @@ _The rest of this readme is written in Dutch._
 
 Film van circa 5 minuten.
 
-Bushokje. Een oude man. Een student. Een pittige tante. De locatie en de hoofdpersonages staan vast. Wat gebeurd er als ze tot het uiterste gedreven worden voor de bus arriveert?
+Bushokje. Een oude man. Een student. Een pittige tante. De locatie en de hoofdpersonages staan vast. Wat gebeurt er als ze tot het uiterste gedreven worden voor de bus arriveert?
 
 Initiele versie geschreven door Arjan Eising en Jon Roozenbeek. Voel je vrij iets toe te voegen en een pull-request aan te maken.
 
